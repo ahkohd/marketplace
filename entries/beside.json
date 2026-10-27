@@ -1,7 +1,7 @@
 {
   "id": "beside",
   "displayName": "Beside",
-  "description": "Turns the bb sidebar into an inbox where threads keep their place and finished work waits on shelves until it has news. Snooze, settle or mute a thread from its row or from bb's thread menu, and it comes back when it finishes, fails or asks you something. Child threads nest under their parent, and pinned threads drag into your own order. Shelf menus settle, snooze, wake or archive in bulk with Undo, and two optional rules settle threads after you read them or archive long-settled work. Needs bb 0.46 or later.",
+  "description": "Turns the bb sidebar into an inbox where threads keep their place and finished work waits on shelves until it has news. Snooze, settle or mute a thread from its row or from bb's thread menu, and it comes back when it finishes, fails or asks you something. Child threads nest under their parent, and pinned threads drag into your own order. Shelf menus act in bulk with Undo. Optional rules settle threads after you read them, archive long-settled work, or ask a self-hosted decision model whether news needs you. Needs bb 0.46 or later.",
   "icon": {
     "url": "./icons/beside-1c3f6754.svg"
   },
