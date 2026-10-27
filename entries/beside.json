@@ -31,7 +31,8 @@
     "./screenshots/beside/overview.png",
     "./screenshots/beside/row-actions.png",
     "./screenshots/beside/inbox-menu.png",
-    "./screenshots/beside/shelves.png"
+    "./screenshots/beside/shelves.png",
+    "./screenshots/beside/decision-mode.png"
   ],
   "overview": "./overview/beside.md"
 }
